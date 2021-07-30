@@ -24,7 +24,7 @@ area
  
  # To run the code:
  
-1.Cloce the github repository in your computer. git clone 
+1.Cloce the github repository in your computer. git clone https://github.com/Rimsgup4/capstone-rimigup4.git
 
 2.Run Testing1.ipynb file which will create two json files in dataStore folder.
 
