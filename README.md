@@ -21,3 +21,13 @@ RH,
 wind,
 area
  based on these parameter we are going to predict weather there will be fire or not
+ 
+ # To run the code:
+ 
+1.Cloce the github repository in your computer. git clone 
+
+2.Run Testing1.ipynb file which will create two json files in dataStore folder.
+
+3.Run Training.ipynb file to search for movie titles across the newly created data store.
+
+4.That's it.
